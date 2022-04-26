@@ -10,3 +10,6 @@ To get It running locally:
 - `npm install` to install all req'd dependencies
 - `npm start` to start the local server (this project uses create-react-app)
 
+## Usage: 
+
+Enter the `name , day , month of birthday`

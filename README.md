@@ -4,8 +4,6 @@ Made with React with Hooks.
 
 ## Getting started
 
-You can view a live demo over at:
-
 To get It running locally:
 
 - Clone this repo

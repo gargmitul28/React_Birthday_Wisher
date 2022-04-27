@@ -13,3 +13,6 @@ To get It running locally:
 ## Usage: 
 
 Enter the `name , day , month of birthday`
+
+![Screenshot (2)](https://user-images.githubusercontent.com/68656122/165559425-14ae5279-661e-4697-8434-47b41ad6a424.png)
+

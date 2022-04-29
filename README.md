@@ -21,3 +21,5 @@ Click on Generate Link
 You Can see a Link being generated Copy or Visit the link by Clicking on the Button
 
 And There You Go ! 🎉
+
+![Screenshot (1)](https://user-images.githubusercontent.com/68656122/165884283-13369a7e-a6cd-4754-b37d-e0b8d4fe01d0.png)
